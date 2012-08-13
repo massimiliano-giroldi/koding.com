@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "https://koding.com/#"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icons/icon_128.png",
+      "16": "icons/icon_016.png"
+   },
+   "name": "__MSG_appName__",
+   "manifest_version": 2,
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

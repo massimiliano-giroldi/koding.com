@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "App description.",
+      "message": "Koding is about writing software in a social, friendly setting. We want to bring people together without an office being a requirement."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Koding"
+   }
+}
